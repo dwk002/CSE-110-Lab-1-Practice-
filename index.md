@@ -26,7 +26,7 @@ This is my favorite quote from Shawshank
 > I hope the Pacific is as blue as it has been in my dreams. **I hope.**"
 
 And Below is my favorite painting,
-![Wanderer Above the Sea of Fog](Wanderer above the Sea of Fog - Caspar David Friedrich.jpg)
+![Wanderer Above the Sea of Fog](Wanderer above Fog.jpg)
 
 
 
